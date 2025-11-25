@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\bin\Debug\net8.0\Transferencias.Application.deps.json
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\bin\Debug\net8.0\Transferencias.Application.dll
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\bin\Debug\net8.0\Transferencias.Application.pdb
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\bin\Debug\net8.0\Transferencias.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\bin\Debug\net8.0\Transferencias.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transfer.01A9899B.Up2Date
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.dll
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\refint\Transferencias.Application.dll
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\Transferencias.Application.pdb
+C:\Users\Rafael\source\repos\BankMore\Transferencias.Application\obj\Debug\net8.0\ref\Transferencias.Application.dll

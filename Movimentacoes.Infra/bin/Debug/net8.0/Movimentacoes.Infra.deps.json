@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Movimentacoes.Infra/1.0.0": {
+        "dependencies": {
+          "Movimentacoes.Application": "1.0.0",
+          "Movimentacoes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Movimentacoes.Infra.dll": {}
+        }
+      },
+      "Movimentacoes.Application/1.0.0": {
+        "dependencies": {
+          "Movimentacoes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Movimentacoes.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Movimentacoes.Domain/1.0.0": {
+        "runtime": {
+          "Movimentacoes.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movimentacoes.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movimentacoes.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movimentacoes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

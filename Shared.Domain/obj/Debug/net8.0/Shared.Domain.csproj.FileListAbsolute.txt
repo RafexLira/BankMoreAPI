@@ -1,0 +1,11 @@
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\bin\Debug\net8.0\Shared.Domain.deps.json
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\bin\Debug\net8.0\Shared.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\bin\Debug\net8.0\Shared.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\refint\Shared.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\Shared.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Shared.Domain\obj\Debug\net8.0\ref\Shared.Domain.dll

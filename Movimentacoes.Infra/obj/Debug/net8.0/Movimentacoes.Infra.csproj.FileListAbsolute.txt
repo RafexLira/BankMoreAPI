@@ -1,0 +1,17 @@
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Infra.deps.json
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Infra.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Infra.pdb
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Application.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Application.pdb
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\bin\Debug\net8.0\Movimentacoes.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Moviment.EAD940FE.Up2Date
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\refint\Movimentacoes.Infra.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\Movimentacoes.Infra.pdb
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Infra\obj\Debug\net8.0\ref\Movimentacoes.Infra.dll

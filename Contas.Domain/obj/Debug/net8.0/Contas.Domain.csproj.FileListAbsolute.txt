@@ -1,0 +1,11 @@
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\bin\Debug\net8.0\Contas.Domain.deps.json
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\bin\Debug\net8.0\Contas.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\bin\Debug\net8.0\Contas.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\refint\Contas.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\Contas.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Contas.Domain\obj\Debug\net8.0\ref\Contas.Domain.dll

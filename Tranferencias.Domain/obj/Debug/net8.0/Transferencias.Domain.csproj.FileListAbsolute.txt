@@ -1,0 +1,11 @@
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\bin\Debug\net8.0\Transferencias.Domain.deps.json
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\bin\Debug\net8.0\Transferencias.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\bin\Debug\net8.0\Transferencias.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\refint\Transferencias.Domain.dll
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\Transferencias.Domain.pdb
+C:\Users\Rafael\source\repos\BankMore\Tranferencias.Domain\obj\Debug\net8.0\ref\Transferencias.Domain.dll
