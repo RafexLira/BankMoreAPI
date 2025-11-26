@@ -8,6 +8,7 @@ C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Movimentacoes.Application.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Movimentacoes.Application.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Movimentacoes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Movimentacoes.Application.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Moviment.E1028C1F.Up2Date
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\Movimentacoes.Application.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Application\obj\Debug\net8.0\refint\Movimentacoes.Application.dll

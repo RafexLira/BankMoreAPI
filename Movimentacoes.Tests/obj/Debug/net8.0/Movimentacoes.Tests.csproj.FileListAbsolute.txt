@@ -8,7 +8,16 @@ C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Movim
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Movimentacoes.Tests.runtimeconfig.json
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Movimentacoes.Tests.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Movimentacoes.Tests.pdb
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\MediatR.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -96,6 +105,7 @@ C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movim
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movimentacoes.Tests.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movimentacoes.Tests.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movimentacoes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movimentacoes.Tests.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Moviment.F9B4EF12.Up2Date
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\Movimentacoes.Tests.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Tests\obj\Debug\net8.0\refint\Movimentacoes.Tests.dll

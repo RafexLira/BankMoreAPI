@@ -561,6 +561,7 @@ C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.T.1DF5C502.Up2Date
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\Contas.Tests.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Tests\obj\Debug\net8.0\refint\Contas.Tests.dll

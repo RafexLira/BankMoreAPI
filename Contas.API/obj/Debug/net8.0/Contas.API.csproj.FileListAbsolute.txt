@@ -68,6 +68,7 @@ C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.Ass
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.csproj.CoreCompileInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

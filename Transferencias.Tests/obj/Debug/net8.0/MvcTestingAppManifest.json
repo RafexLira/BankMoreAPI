@@ -1,6 +1,6 @@
 {
-  "Transferencias.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Api",
-  "Transferencias.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Application",
+  "Transferencias.Api": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Api",
+  "Transferencias.Application": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Application",
   "Transferencias.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Tranferencias.Domain",
-  "Transferencias.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Infra"
+  "Transferencias.Infra": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Transferencias.Infra"
 }

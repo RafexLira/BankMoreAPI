@@ -12,6 +12,7 @@ C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.A.FD6CA104.Up2Date
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\refint\Contas.Application.dll

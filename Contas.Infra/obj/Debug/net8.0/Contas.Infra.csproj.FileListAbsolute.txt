@@ -14,6 +14,7 @@ C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.I.50BD8DF7.Up2Date
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\refint\Contas.Infra.dll

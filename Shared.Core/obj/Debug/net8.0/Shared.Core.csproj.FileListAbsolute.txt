@@ -5,6 +5,7 @@ C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.G
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.dll
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\refint\Shared.Core.dll
 C:\Users\Rafael\source\repos\BankMore\Shared.Core\obj\Debug\net8.0\Shared.Core.pdb

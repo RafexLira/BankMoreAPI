@@ -5,6 +5,7 @@ C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movi
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.sourcelink.json
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\refint\Movimentacoes.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Movimentacoes.Domain\obj\Debug\net8.0\Movimentacoes.Domain.pdb

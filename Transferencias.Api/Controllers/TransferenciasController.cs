@@ -1,41 +1,41 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Transferencias.Application.Commands;
+using Transferencias.Application.Queries;
 
 namespace Transferencias.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(AuthenticationSchemes = "MicroserviceScheme")]
-
     public class TransferenciasController : ControllerBase
     {
         private readonly IMediator _mediator;
-        private readonly ILogger<TransferenciasController> _logger;
 
-        public TransferenciasController(IMediator mediator, ILogger<TransferenciasController> logger)
+        public TransferenciasController(IMediator mediator)
         {
             _mediator = mediator;
-            _logger = logger;
         }
 
         [HttpPost]
-        public async Task<IActionResult> Registrar([FromBody] RegisterTransferenciaCommand command)
+        public async Task<IActionResult> Registrar([FromBody] RegistrarTransferenciaCommand command)
         {
-            _logger.LogInformation("Recebendo solicitação de transferência. Origem={Origem}, Destino={Destino}, Valor={Valor}",
-                command.NumeroContaOrigem, command.NumeroContaDestino, command.Valor);
+            var result = await _mediator.Send(command);
 
-            try
-            {
-                var id = await _mediator.Send(command);
-                return Ok(new { id });
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "Erro ao registrar transferência.");
-                return StatusCode(500, "Erro ao registrar transferência.");
-            }
+            if (result.Status == "Falha")
+                return BadRequest(result);
+
+            return Ok(result);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Obter(Guid id)
+        {
+            var result = await _mediator.Send(new GetTransferenciaByIdQuery { Id = id });
+
+            if (result == null)
+                return NotFound();
+
+            return Ok(result);
         }
     }
 }

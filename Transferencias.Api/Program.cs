@@ -1,21 +1,22 @@
 using MediatR;
+using System.Data;
 using Microsoft.Data.Sqlite;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using SQLitePCL;
-using System.Data;
 using System.Text;
 using Transferencias.Application.Commands;
 using Transferencias.Application.Security;
-using Transferencias.Domain.Entities.Repositories;
 using Transferencias.Infra.Persistence;
 using Transferencias.Infra.Repositories;
+using Transferencias.Domain.Entities.Repositories;
+using Transferencias.Application.Interfaces;
 
-Batteries.Init(); // NECESSÁRIO para testes de integração com SQLite
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ---------------- INFRA E DATABASE ----------------
+
+// ---------------- INFRA / DATABASE ----------------
 
 builder.Services.AddScoped<IDbConnection>(sp =>
 {
@@ -25,23 +26,24 @@ builder.Services.AddScoped<IDbConnection>(sp =>
     var connection = new SqliteConnection(connectionString);
     connection.Open();
 
-    DatabaseInitializer.EnsureDatabaseCreated(connection);
+    DatabaseInitializer.Initialize(connection);
 
     return connection;
 });
 
-// Repositórios
+// Repositório Dapper
 builder.Services.AddScoped<ITransferenciaRepository, TransferenciaRepository>();
-builder.Services.AddScoped<IIdempotenciaRepository, IdempotenciaRepository>();
 
-// ---------------- CAMADA DE APLICAÇÃO ----------------
+
+// ---------------- APPLICATION ----------------
 
 builder.Services.AddMediatR(cfg =>
 {
-    cfg.RegisterServicesFromAssembly(typeof(RegisterTransferenciaCommand).Assembly);
+    cfg.RegisterServicesFromAssembly(typeof(RegistrarTransferenciaCommand).Assembly);
 });
 
-// ---------------- APRESENTAÇÃO ----------------
+
+// ---------------- PRESENTATION ----------------
 
 builder.Services.AddControllers();
 
@@ -49,32 +51,72 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Transferencias.API", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "Transferencias.API",
+        Version = "v1"
+    });
+
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        Scheme = "bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Digite 'Bearer {token interno}'"
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
 });
 
-// ---------------- JWT INTERNO (MICROSSERVIÇOS) ----------------
 
-var jwtSection = builder.Configuration.GetSection("JwtInternal");
-var secret = jwtSection["Secret"]!;
-var issuer = jwtSection["Issuer"]!;
-var audience = jwtSection["Audience"]!;
+// ---------------- INTERNAL JWT ----------------
 
-builder.Services.AddAuthentication("MicroserviceScheme")
-    .AddJwtBearer("MicroserviceScheme", options =>
+var jwt = builder.Configuration.GetSection("JwtInternal");
+
+var secret = jwt["Secret"]!;
+var key = Encoding.UTF8.GetBytes(secret);
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
     {
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
             ValidateAudience = true,
-            ValidateIssuerSigningKey = true,
             ValidateLifetime = true,
-            ValidIssuer = issuer,
-            ValidAudience = audience,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret))
+            ValidateIssuerSigningKey = true,
+
+            ValidIssuer = jwt["Issuer"],
+            ValidAudience = jwt["Audience"],
+            IssuerSigningKey = new SymmetricSecurityKey(key)
         };
     });
 
-builder.Services.AddSingleton(new MicroserviceTokenService(secret, issuer, audience));
+
+builder.Services.AddSingleton<TokenInternoService>(sp =>
+{
+    return new TokenInternoService(
+        secret,
+        issuer: jwt["Issuer"]!,
+        audience: jwt["Audience"]!
+    );
+});
+
 
 // ---------------- PIPELINE ----------------
 

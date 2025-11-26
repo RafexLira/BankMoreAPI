@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Filters\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Contas.Application\Contas.Application.csproj" />
     <ProjectReference Include="..\Contas.Domain\Contas.Domain.csproj" />
     <ProjectReference Include="..\Contas.Infra\Contas.Infra.csproj" />
