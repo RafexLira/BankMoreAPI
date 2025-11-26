@@ -79,7 +79,7 @@ namespace Movimentacoes.Application.CommandHandlers
             {
                 _logger.LogWarning("Erro de domínio ao registrar movimento: {Msg}", ex.Message);
 
-                // Em Movimentações, erro de domínio normalmente vira 400 na API
+             
                 throw;
             }
 

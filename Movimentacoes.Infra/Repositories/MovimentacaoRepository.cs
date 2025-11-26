@@ -104,11 +104,7 @@ namespace Movimentacoes.Infra.Repositories
 
             return saldo ?? 0;
         }
-
-        // -------------------------------------------
-        // Builder interno para reconstruir entidade
-        // sem expor setters públicos
-        // -------------------------------------------
+              
         private class MovimentacaoBuilder
         {
             public Movimentacao FromDatabase(
