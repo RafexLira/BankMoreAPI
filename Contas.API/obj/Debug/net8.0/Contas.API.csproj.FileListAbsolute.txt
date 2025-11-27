@@ -53,13 +53,9 @@ C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\runtimes\win-x
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Application.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Infra.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Shared.Core.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Shared.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Application.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Domain.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Contas.Infra.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Shared.Core.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.API\bin\Debug\net8.0\Shared.Domain.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.csproj.AssemblyReference.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\Rafael\source\repos\BankMore\Contas.API\obj\Debug\net8.0\Contas.API.GeneratedMSBuildEditorConfig.editorconfig

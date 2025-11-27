@@ -3,12 +3,8 @@ C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Infra
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Infra.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Application.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Domain.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Shared.Core.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Shared.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Application.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Contas.Domain.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Shared.Core.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.Infra\bin\Debug\net8.0\Shared.Domain.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.csproj.AssemblyReference.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Rafael\source\repos\BankMore\Contas.Infra\obj\Debug\net8.0\Contas.Infra.AssemblyInfoInputs.cache

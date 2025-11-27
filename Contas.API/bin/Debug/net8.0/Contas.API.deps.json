@@ -391,8 +391,6 @@
           "Contas.Domain": "1.0.0",
           "MediatR": "13.1.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
-          "Shared.Core": "1.0.0",
-          "Shared.Domain": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.15.0"
         },
         "runtime": {
@@ -419,22 +417,6 @@
         },
         "runtime": {
           "Contas.Infra.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Shared.Core/1.0.0": {
-        "runtime": {
-          "Shared.Core.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Shared.Domain/1.0.0": {
-        "runtime": {
-          "Shared.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -655,16 +637,6 @@
       "sha512": ""
     },
     "Contas.Infra/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Shared.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Shared.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

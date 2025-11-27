@@ -2,11 +2,7 @@ C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Contas
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Contas.Application.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Contas.Application.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Contas.Domain.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Shared.Core.dll
-C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Shared.Domain.dll
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Contas.Domain.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Shared.Core.pdb
-C:\Users\Rafael\source\repos\BankMore\Contas.Application\bin\Debug\net8.0\Shared.Domain.pdb
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.csproj.AssemblyReference.cache
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Rafael\source\repos\BankMore\Contas.Application\obj\Debug\net8.0\Contas.Application.AssemblyInfoInputs.cache

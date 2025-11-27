@@ -2,7 +2,5 @@
   "Contas.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Contas.API",
   "Contas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Contas.Application",
   "Contas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Contas.Domain",
-  "Contas.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Contas.Infra",
-  "Shared.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Shared.Core",
-  "Shared.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Shared.Domain"
+  "Contas.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Contas.Infra"
 }

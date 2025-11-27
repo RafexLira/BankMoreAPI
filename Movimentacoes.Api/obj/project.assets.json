@@ -390,16 +390,6 @@
         "runtime": {
           "bin/placeholder/Movimentacoes.Infra.dll": {}
         }
-      },
-      "Shared.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Shared.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Shared.Core.dll": {}
-        }
       }
     }
   },
@@ -1169,11 +1159,6 @@
       "type": "project",
       "path": "../Movimentacoes.Infra/Movimentacoes.Infra.csproj",
       "msbuildProject": "../Movimentacoes.Infra/Movimentacoes.Infra.csproj"
-    },
-    "Shared.Core/1.0.0": {
-      "type": "project",
-      "path": "../Shared.Core/Shared.Core.csproj",
-      "msbuildProject": "../Shared.Core/Shared.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1182,7 +1167,6 @@
       "Microsoft.Data.Sqlite.Core >= 10.0.0",
       "Movimentacoes.Application >= 1.0.0",
       "Movimentacoes.Infra >= 1.0.0",
-      "Shared.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -1223,9 +1207,6 @@
             },
             "C:\\Users\\Rafael\\source\\repos\\BankMore\\Movimentacoes.Infra\\Movimentacoes.Infra.csproj": {
               "projectPath": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Movimentacoes.Infra\\Movimentacoes.Infra.csproj"
-            },
-            "C:\\Users\\Rafael\\source\\repos\\BankMore\\Shared.Core\\Shared.Core.csproj": {
-              "projectPath": "C:\\Users\\Rafael\\source\\repos\\BankMore\\Shared.Core\\Shared.Core.csproj"
             }
           }
         }

@@ -12,7 +12,6 @@
           "Microsoft.Data.Sqlite.Core": "10.0.0",
           "Movimentacoes.Application": "1.0.0",
           "Movimentacoes.Infra": "1.0.0",
-          "Shared.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -259,14 +258,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "Shared.Core/1.0.0": {
-        "runtime": {
-          "Shared.Core.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -448,11 +439,6 @@
       "sha512": ""
     },
     "Movimentacoes.Infra/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Shared.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

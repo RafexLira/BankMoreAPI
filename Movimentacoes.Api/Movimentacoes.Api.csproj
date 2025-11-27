@@ -15,7 +15,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Movimentacoes.Application\Movimentacoes.Application.csproj" />
     <ProjectReference Include="..\Movimentacoes.Infra\Movimentacoes.Infra.csproj" />
-    <ProjectReference Include="..\Shared.Core\Shared.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
